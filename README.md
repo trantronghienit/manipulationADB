@@ -48,5 +48,5 @@ using (Process process = Process.Start(info))
 > ảnh minh họa hàm </br>
 ![gggqq](https://cloud.githubusercontent.com/assets/18228937/17046262/72ad93b4-4ffb-11e6-8b30-e230b762dc69.jpg)
 
-
+[link extends](http://stackoverflow.com/questions/4291912/process-start-how-to-get-the-output)
 
